@@ -29,8 +29,8 @@
 * **Frontend**: [Next.js 14 (App Router)](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/)
 * **Backend**: Vercel Edge Functions, [Drizzle ORM](https://orm.drizzle.team/)
 * **Authentication**: [Clerk.dev](https://clerk.dev/)
-* **AI**: [Gemini Pro (Google Generative AI)](https://ai.google.dev/)
-* **Database**: SQLite / PlanetScale
+* **AI**: [Gemini 1.5 flash (Google Generative AI)](https://ai.google.dev/)
+* **Database**: postgresql 
 * **Deployment**: [Vercel](https://vercel.com/)
 
 ---
